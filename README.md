@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmpsaviourLive
-- 👀 I’m interested in Marketing and Media
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Marketing, Media ICT
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on building a web project
 - 📫 How to reach me: https://www.linkedin.com/in/saviourukpong/ on LinkedIn and @empsaviour on Twitter
 
