@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EmpsaviourLive
-- 👀 I’m interested in Marketing, Media ICT
+- 👀 I’m interested in Marketing, Web Development and technical support
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on building a web project
-- 📫 How to reach me: https://www.linkedin.com/in/saviourukpong/ on LinkedIn and @empsaviour on Twitter
+- 💞️ I’m looking to collaborate on building a web projects
+- 📫 How to reach me: https://www.linkedin.com/in/saviourukpong/ on LinkedIn
 
 <!---
 EmpsaviourLive/EmpsaviourLive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
