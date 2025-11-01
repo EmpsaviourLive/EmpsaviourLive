@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EmpsaviourLive
-- 👀 I’m interested in Marketing, Web Development and technical support
-- 🌱 I’m currently learning PHP
+- 👋 Hi,Saviour here
+- 👀 I’m interested in Marketing & Web design 
 - 💞️ I’m looking to collaborate on building a web projects
 - 📫 How to reach me: https://www.linkedin.com/in/saviourukpong/ on LinkedIn
 
